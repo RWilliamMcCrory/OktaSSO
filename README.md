@@ -105,11 +105,22 @@ Assigning the application to my account for testing
 
 <p align= "center">
 Testing SSO through OKTA for O365 using my test account
-
-
- <p align="center">
-  <img src="https://user-images.githubusercontent.com/120264673/208254832-d718b756-ec28-43f2-b9cb-cbf412c8bcc0.mp4" />
 </p>
+
+ 
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/120264673/208254999-255fe862-4b3c-456b-b6fb-c771a61deab4.mp4
+
+
+
+
+
 
 
 
@@ -121,7 +132,7 @@ Testing SSO through OKTA for O365 using my test account
 
 <p align= "center">
 Thanks for viewing!
-
+</p>
 
 <!--
  ```diff
